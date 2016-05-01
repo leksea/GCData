@@ -1,9 +1,10 @@
 # Getting and Cleaning Data Course Project Repository
 
 Contents of GCData repository:
-* README.md -- readme file.
-* CodeBook.md -- description of datafields in `tidyDataset.txt`.
-* run_analysis.R -- the R scrip that generates `tidyDataset.txt`.
+* `README.md` -- readme file.
+* `CodeBook.md` -- description of datafields in `tidyDataset.txt`.
+* `run_analysis.R` -- the R scrip that generates `tidyDataset.txt`.
+* `tidyDataset.txt` -- the resulting tidy dataset.
 
 Step-by-step description of data manupulations performed by `run_analysis.R`:
 
